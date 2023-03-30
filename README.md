@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-https://desafio-qrcode.netlify.app/
+https://devxpl.github.io/PROJETO-QRCODE/
 
 ## Welcome! 👋
 
